@@ -1,5 +1,8 @@
 # BAIT "Learning to Learn"
 
+## Pdf of Bachelor Thesis
+[Bachelor Thesis](https://github.com/AlexandreManai/Bachelor_thesis/blob/main/Bachelorarbeit_2022___Lutz_Urban_and_Manai_Alexandre.pdf)
+
 ## Installation
 Dev environment is best set up via VS Code remote server (SSH & DevContainer Extensions)
 
